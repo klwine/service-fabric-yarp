@@ -1,4 +1,5 @@
-# ServiceFabricYarp 1.0.0
+# ServiceFabricYarp 1.0.0 [Obsolete]
+This was a prototype from [KL-6126](https://klwine.atlassian.net/browse/KL-6126) but the team opted for Traefik.
 
 
 Table of Contents
